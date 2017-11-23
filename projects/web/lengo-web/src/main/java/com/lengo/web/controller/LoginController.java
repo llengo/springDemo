@@ -21,7 +21,7 @@ public class LoginController {
 	@RequestMapping(value = "/home")
 	public ModelAndView homePage() {
 		ModelAndView mav=new ModelAndView();
-		mav.setViewName("home_one/index");
+		mav.setViewName("home_one/index-simp");
 		return mav;
 	}
 	@RequestMapping(value = "/checkLoginInfo")
