@@ -9,7 +9,7 @@
                     <p><i class="icon-map-marker"></i> Street Name 432/2, CN, 200000</p>
                     <p><i class="icon-phone"></i> 15537667771</p>
                     <p><i class="icon-mobile-2"></i> 15537667771</p>
-                    <p><i class="icon-mail-3"></i> <a href="mailto:#">zlj@mogoroom.com</a></p>
+                    <p><i class="icon-mail-3"></i> <a href="mailto:#">iwo1024@163.com</a></p>
                 </address>
             </div>
             <div class="span8">
