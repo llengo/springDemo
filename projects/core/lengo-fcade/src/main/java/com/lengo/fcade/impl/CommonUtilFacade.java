@@ -44,7 +44,7 @@ public class CommonUtilFacade implements ICommonUtil {
 			mail.setPros(map);
 			mail.initMessage();
 			List<String> list = new ArrayList<String>();
-			list.add("zlj@mogoroom.com");
+			list.add("iwo1024@163.com");
 			mail.setRecipients(list);
 			mail.setSubject("系统反馈");
 			mail.setDate(new Date());
