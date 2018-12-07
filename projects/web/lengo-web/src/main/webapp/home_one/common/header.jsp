@@ -5,7 +5,7 @@
         <p class="tagline">Responsive Website Template</p>
     </div>
     <div class="span7 social-container">
-        <!-- <p class="phone hidden-phone"><i class="icon-envelope"></i> zlj@mogoroom.com</p>
+        <!-- <p class="phone hidden-phone"><i class="icon-envelope"></i> iwo1024@163.com</p>
         <p class="phone hidden-phone"><i class="icon-bell"></i> Call Us +1 553 766 77 71</p> -->
         <div class="top-social">
             <a data-original-title="Facebook" rel="tooltip" data-placement="top" class="facebook" href="#"></a>
