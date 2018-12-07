@@ -103,7 +103,7 @@
                             <i class="icon-map-marker"></i> Street Name 432/2, London, 90210<br />
                             <i class="icon-user"></i> (123) 456-7890<br />
                             <i class="icon-print"></i> (123) 456-7890<br />
-                            <i class="icon-envelope"></i> <a href="mailto:#">zlj@mogoroom.com</a>
+                            <i class="icon-envelope"></i> <a href="mailto:#">iwo1024@163.com</a>
                         </p>
                     </address>
                 </section>
